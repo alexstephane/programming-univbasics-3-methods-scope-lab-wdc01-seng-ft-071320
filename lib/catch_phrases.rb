@@ -23,7 +23,7 @@ def link
 end
 
 
-o Go Alone! Take This."
+
 
 def all_phrases 
   phrase
