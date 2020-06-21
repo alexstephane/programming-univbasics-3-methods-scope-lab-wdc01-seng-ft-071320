@@ -26,7 +26,7 @@ end
 
 
 def all_phrases 
-  phrase
+  puts phrase
   status
   the_link
   
