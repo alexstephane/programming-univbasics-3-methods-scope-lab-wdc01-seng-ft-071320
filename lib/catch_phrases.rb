@@ -23,9 +23,7 @@ def link
 end
 
 
-phrase = "It's-a me, Mario!"
-status = 'Thank You Mario! But Our Princess Is In Another Castle!'
-the_link  = "It's Dangerous To Go Alone! Take This."
+o Go Alone! Take This."
 
 def all_phrases 
   phrase
